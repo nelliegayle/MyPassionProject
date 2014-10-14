@@ -1,3 +1,12 @@
+h1{
+	text-align: center;
+}
 body{
 	background: peachpuff;
+	}
+p{
+	text-align: center;
+}
+.WhiteText{
+	color: white;
 }
